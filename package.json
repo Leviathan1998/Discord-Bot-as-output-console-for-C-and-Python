@@ -1,0 +1,28 @@
+{
+  "name": "coderbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "jdoodlecoderunner": "^1.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pai026/coderBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pai026/coderBot/issues"
+  },
+  "homepage": "https://github.com/Pai026/coderBot#readme",
+  "description": ""
+}
